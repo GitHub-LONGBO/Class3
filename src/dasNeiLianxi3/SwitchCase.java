@@ -10,10 +10,10 @@ public class SwitchCase {
         int umberlla =  scanner.nextInt();
         switch(umberlla){
             case 1:
-                System.out.println("student");
+                System.out.println("liSi");
                 break;
             case 2:
-                System.out.println("teacher");
+                System.out.println("zhangSan");
                 break;
             case 3:
                 System.out.println("schoolmaster");
